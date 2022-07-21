@@ -143,6 +143,33 @@ Fractal/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/build
 .PHONY : Fractal/fast
 
+BitMap.o: BitMap.cpp.o
+
+.PHONY : BitMap.o
+
+# target to build an object file
+BitMap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/BitMap.cpp.o
+.PHONY : BitMap.cpp.o
+
+BitMap.i: BitMap.cpp.i
+
+.PHONY : BitMap.i
+
+# target to preprocess a source file
+BitMap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/BitMap.cpp.i
+.PHONY : BitMap.cpp.i
+
+BitMap.s: BitMap.cpp.s
+
+.PHONY : BitMap.s
+
+# target to generate assembly for a file
+BitMap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/BitMap.cpp.s
+.PHONY : BitMap.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +206,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Fractal"
+	@echo "... BitMap.o"
+	@echo "... BitMap.i"
+	@echo "... BitMap.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

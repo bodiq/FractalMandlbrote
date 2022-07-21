@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Fractal.dir/BitMap.cpp.o"
   "CMakeFiles/Fractal.dir/main.cpp.o"
   "Fractal"
   "Fractal.pdb"

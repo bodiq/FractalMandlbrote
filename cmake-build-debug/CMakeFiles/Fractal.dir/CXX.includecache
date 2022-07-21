@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h
+string
+-
+cstdint
+-
+iostream
+-
+fstream
+-
+
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/main.cpp
+BitMap.h
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h
+

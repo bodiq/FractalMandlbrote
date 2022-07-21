@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.cpp">
+			<Option target="Fractal"/>
+		</Unit>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h">
+			<Option target="Fractal"/>
+		</Unit>
 		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/main.cpp">
 			<Option target="Fractal"/>
 		</Unit>

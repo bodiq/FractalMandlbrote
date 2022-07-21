@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.cpp" "/Users/bodya/Desktop/С++/AdvancedC++/Fractal/cmake-build-debug/CMakeFiles/Fractal.dir/BitMap.cpp.o"
   "/Users/bodya/Desktop/С++/AdvancedC++/Fractal/main.cpp" "/Users/bodya/Desktop/С++/AdvancedC++/Fractal/cmake-build-debug/CMakeFiles/Fractal.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
