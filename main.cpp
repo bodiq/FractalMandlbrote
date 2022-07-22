@@ -18,16 +18,17 @@ int main()
 
     ZoomList zoomList(WIDTH, HEIGHT);
 
-    zoomList.add(Zoom(WIDTH / 2, HEIGHT / 2, 1));
+    zoomList.add(Zoom(WIDTH / 2, HEIGHT / 2, 4.0 / WIDTH));
+    zoomList.add(Zoom(295, HEIGHT - 202, 0.1));
+    zoomList.add(Zoom(312, HEIGHT - 304, 0.1));
 
     for(int y = 0; y < HEIGHT; y++)
     {
         for(int x = 0; x < WIDTH; x++)
         {
-            double xFractal = (x - WIDTH / 2 - 150) * 2.0 / HEIGHT;
-            double yFractal = (y - HEIGHT / 2) * 2.0 / HEIGHT;
+            std::pair<double, double> xyFractals = zoomList.doZoom(x, y);
 
-            int iterations = Mandlbrote::getIterations(xFractal, yFractal);
+            int iterations = Mandlbrote::getIterations(xyFractals.first, xyFractals.second);
 
             fractal[y * WIDTH + x] = iterations;
 
