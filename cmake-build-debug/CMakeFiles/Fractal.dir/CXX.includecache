@@ -15,8 +15,32 @@ iostream
 -
 fstream
 -
+math.h
+-
+
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.h
+complex
+-
+
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Zoom.h
+
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.cpp
+ZoomList.h
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.h
+
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.h
+Zoom.h
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Zoom.h
+vector
+-
+iostream
+-
 
 /Users/bodya/Desktop/С++/AdvancedC++/Fractal/main.cpp
 BitMap.h
 /Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h
+Mandlbrote.h
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.h
+ZoomList.h
+/Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.h
 

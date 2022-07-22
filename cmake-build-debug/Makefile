@@ -170,6 +170,60 @@ BitMap.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/BitMap.cpp.s
 .PHONY : BitMap.cpp.s
 
+Mandlbrote.o: Mandlbrote.cpp.o
+
+.PHONY : Mandlbrote.o
+
+# target to build an object file
+Mandlbrote.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/Mandlbrote.cpp.o
+.PHONY : Mandlbrote.cpp.o
+
+Mandlbrote.i: Mandlbrote.cpp.i
+
+.PHONY : Mandlbrote.i
+
+# target to preprocess a source file
+Mandlbrote.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/Mandlbrote.cpp.i
+.PHONY : Mandlbrote.cpp.i
+
+Mandlbrote.s: Mandlbrote.cpp.s
+
+.PHONY : Mandlbrote.s
+
+# target to generate assembly for a file
+Mandlbrote.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/Mandlbrote.cpp.s
+.PHONY : Mandlbrote.cpp.s
+
+ZoomList.o: ZoomList.cpp.o
+
+.PHONY : ZoomList.o
+
+# target to build an object file
+ZoomList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/ZoomList.cpp.o
+.PHONY : ZoomList.cpp.o
+
+ZoomList.i: ZoomList.cpp.i
+
+.PHONY : ZoomList.i
+
+# target to preprocess a source file
+ZoomList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/ZoomList.cpp.i
+.PHONY : ZoomList.cpp.i
+
+ZoomList.s: ZoomList.cpp.s
+
+.PHONY : ZoomList.s
+
+# target to generate assembly for a file
+ZoomList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fractal.dir/build.make CMakeFiles/Fractal.dir/ZoomList.cpp.s
+.PHONY : ZoomList.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -209,6 +263,12 @@ help:
 	@echo "... BitMap.o"
 	@echo "... BitMap.i"
 	@echo "... BitMap.s"
+	@echo "... Mandlbrote.o"
+	@echo "... Mandlbrote.i"
+	@echo "... Mandlbrote.s"
+	@echo "... ZoomList.o"
+	@echo "... ZoomList.i"
+	@echo "... ZoomList.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

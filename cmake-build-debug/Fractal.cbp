@@ -86,6 +86,21 @@
 		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h">
 			<Option target="Fractal"/>
 		</Unit>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.cpp">
+			<Option target="Fractal"/>
+		</Unit>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.h">
+			<Option target="Fractal"/>
+		</Unit>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/Zoom.h">
+			<Option target="Fractal"/>
+		</Unit>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.cpp">
+			<Option target="Fractal"/>
+		</Unit>
+		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.h">
+			<Option target="Fractal"/>
+		</Unit>
 		<Unit filename="/Users/bodya/Desktop/С++/AdvancedC++/Fractal/main.cpp">
 			<Option target="Fractal"/>
 		</Unit>

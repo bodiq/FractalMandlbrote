@@ -6,6 +6,16 @@ CMakeFiles/Fractal.dir/BitMap.cpp.o
  /Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h
  /Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMapHeader.h
  /Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMapInfo.h
+CMakeFiles/Fractal.dir/Mandlbrote.cpp.o
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.cpp
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.h
+CMakeFiles/Fractal.dir/ZoomList.cpp.o
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/Zoom.h
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.cpp
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.h
 CMakeFiles/Fractal.dir/main.cpp.o
  /Users/bodya/Desktop/С++/AdvancedC++/Fractal/BitMap.h
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/Mandlbrote.h
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/Zoom.h
+ /Users/bodya/Desktop/С++/AdvancedC++/Fractal/ZoomList.h
  /Users/bodya/Desktop/С++/AdvancedC++/Fractal/main.cpp

@@ -4,6 +4,7 @@
 #include <cstdint>
 #include <iostream>
 #include <fstream>
+#include <math.h>
 
 class BitMap
 {
@@ -16,7 +17,7 @@ public:
 private:
     int m_width;
     int m_height;
-    std::unique_ptr<uint8_t> m_pPixels;
+    std::unique_ptr<uint8_t[]> m_pPixels;
 };
 
 

@@ -6,6 +6,16 @@ CMakeFiles/Fractal.dir/BitMap.cpp.o: ../BitMap.h
 CMakeFiles/Fractal.dir/BitMap.cpp.o: ../BitMapHeader.h
 CMakeFiles/Fractal.dir/BitMap.cpp.o: ../BitMapInfo.h
 
+CMakeFiles/Fractal.dir/Mandlbrote.cpp.o: ../Mandlbrote.cpp
+CMakeFiles/Fractal.dir/Mandlbrote.cpp.o: ../Mandlbrote.h
+
+CMakeFiles/Fractal.dir/ZoomList.cpp.o: ../Zoom.h
+CMakeFiles/Fractal.dir/ZoomList.cpp.o: ../ZoomList.cpp
+CMakeFiles/Fractal.dir/ZoomList.cpp.o: ../ZoomList.h
+
 CMakeFiles/Fractal.dir/main.cpp.o: ../BitMap.h
+CMakeFiles/Fractal.dir/main.cpp.o: ../Mandlbrote.h
+CMakeFiles/Fractal.dir/main.cpp.o: ../Zoom.h
+CMakeFiles/Fractal.dir/main.cpp.o: ../ZoomList.h
 CMakeFiles/Fractal.dir/main.cpp.o: ../main.cpp
 
